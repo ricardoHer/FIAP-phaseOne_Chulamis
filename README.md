@@ -1,9 +1,7 @@
 # FIAP-phaseOne_Chulamis
 Small page that is a phase one project of the Faculty of Software Engineering at FIAP.
 
-```
-Faça o upload de sua atividade na plataforma FIAP ON, na seção de atividades, e aguarde a nota e o feedback do professor.
-```
+**Faça o upload de sua atividade na plataforma FIAP ON, na seção de atividades, e aguarde a nota e o feedback do professor.**
  
 ### 1.1 Introdução
  
@@ -54,6 +52,4 @@ O material para download estará disponível na área do aluno.
 As imagens fornecidas são brutas (várias no mesmo arquivo). Gere as imagens individuais as recortando.
  
 
-**
-Boa sorte!
-**                          
+**Boa sorte!**                          
