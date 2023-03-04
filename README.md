@@ -19,14 +19,18 @@ A empresa Chulamis contratou o Bortola, um Web Designer bem renomado na área, p
 Com base no que aprendemos nas videoaulas, vamos ajudar a empresa Chulamis a criar esse site de vendas de drones, com alguns serviços adicionais (Figura “Loja Virtual – Drones Net”).
 
 ![Loja Virtual](modelo.png)
+
 Figura 1 – Loja Virtual – Drones Net
 *Fonte: Drones Net (2022)*
+
 
 Nosso amigo Bortola já deixou algumas especificações prontas (regras) para nos ajudar no desenvolvimento. Lembrando que a diretoria da empresa Chulamis já aprovou esse layout, portanto, precisamos manter a identidade visual.
 
 ![Protótypo](Prototype.jpg) 
+
 Figura 2 – Loja Virtual – Drones Net
 *Fonte: Drones Net (2022)*
+
 
 **Obs: Seguir o layout proposto, os valores sugeridos não precisam estar 100% como mostra no exemplo acima, o importante e manter a mesma estrutura e cores.**
 
