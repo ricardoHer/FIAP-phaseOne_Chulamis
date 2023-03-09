@@ -1,0 +1,59 @@
+/*
+Reset CSS de Eric Meyer
+Versão 2.0 | 20110126
+Lincenciado sob MIT License
+*/
+
+/* Atenção! Este reset irá remover todos os estilos padrão dos elementos HTML,
+   incluindo margens, preenchimentos, tamanhos de fonte, etc. Certifique-se de
+   entender as implicações antes de usá-lo em seu projeto. */
+
+   html, body, div, span, applet, object, iframe,
+   h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+   a, abbr, acronym, address, big, cite, code,
+   del, dfn, em, img, ins, kbd, q, s, samp,
+   small, strike, strong, sub, sup, tt, var,
+   b, u, i, center,
+   dl, dt, dd, ol, ul, li,
+   fieldset, form, label, legend,
+   table, caption, tbody, tfoot, thead, tr, th, td {
+       margin: 0;
+       padding: 0;
+       border: 0;
+       font-size: 100%;
+       font: inherit;
+       vertical-align: baseline;
+   }
+   
+   /* Definir estilos padrão para os elementos HTML5 */
+   article, aside, details, figcaption, figure,
+   footer, header, hgroup, menu, nav, section {
+       display: block;
+   }
+   
+   /* Definir estilos padrão para as tags 'body' e 'html' */
+   body {
+       line-height: 1;
+   }
+   
+   /* Definir estilos padrão para as tags 'ol' e 'ul' */
+   ol, ul {
+       list-style: none;
+   }
+   
+   /* Definir estilos padrão para as tags 'blockquote' e 'q' */
+   blockquote, q {
+       quotes: none;
+   }
+   blockquote:before, blockquote:after,
+   q:before, q:after {
+       content: '';
+       content: none;
+   }
+   
+   /* Definir estilos padrão para as tags 'table' */
+   table {
+       border-collapse: collapse;
+       border-spacing: 0;
+   }
+   
